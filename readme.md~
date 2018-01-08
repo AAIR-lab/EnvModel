@@ -1,0 +1,2 @@
+## Importing into Gazebo
+Gazebo stores models in `~/.gazebo/models`. Copy and paste the folders for each model into `~/.gazebo/models`. You should see the model in the gazebo library afterwards. 
