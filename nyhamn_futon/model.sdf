@@ -15,7 +15,7 @@
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://nyhman_futon/meshes/nyhamn_futon.stl</uri>
+            <uri>model://nyhman_futon/meshes/nyhamn_futon.dae</uri>
           </mesh>
         </geometry>
       </visual>
